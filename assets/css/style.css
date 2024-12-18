@@ -3,3 +3,14 @@
 body{
     font-family: "Be Vietnam Pro", sans-serif;
 }
+
+.viewer-toolbar>ul>li {
+    background-color: #8D1C20;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    height: 24px;
+    overflow: hidden;
+    transition: background-color .15s;
+    width: 24px;
+}
